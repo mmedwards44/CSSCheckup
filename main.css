@@ -1,0 +1,53 @@
+#body {
+  background: rgb(242,244,28);
+  background: linear-gradient(90deg, rgba(242,244,28,1) 0%, rgba(91,1,1,1) 50%, rgba(143,0,149,1) 100%);
+}
+
+#Div1 table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px dashed cornflowerblue
+  
+}
+
+.band-name {
+  color: aquamarine;
+  font-family: fantasy;
+  width: 33%;
+}
+
+.genre {
+  color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 33%;
+}
+
+.years {
+  color: chartreuse;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 33%;
+}
+
+.images {
+  margin: auto;
+  width: 50%;
+}
+
+.img-desc table{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#21p {
+  padding-right: 25px;
+}
+
+#krn {
+  padding-left: 45px;
+  padding-right: 60px;
+}
+
+#lbg {
+  padding-right: 40px;
+}
